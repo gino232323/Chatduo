@@ -1,0 +1,9 @@
+Chat Dúo
+========
+index.html contiene todo el chat (HTML, CSS y JavaScript en un solo archivo).
+
+Importante: los mensajes se guardan y se comparten usando funciones de claude.ai
+(base de datos, identidad del usuario y presencia en línea). Fuera de claude.ai
+la página abre, pero no puede enviar ni recibir mensajes. Para usarla de verdad,
+publícala como artefacto en claude.ai o reemplaza esas llamadas (window.claude.use)
+por tu propio servidor.
